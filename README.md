@@ -53,7 +53,7 @@ The goal is to analyze hotel booking and cancellation trends using historical da
 ## 🚀 How to Use
 
 1. **Download the dataset** from the Kaggle link above.
-2. **Open the Excel dashboard.
+2. Open the Excel dashboard.
 3. Use **slicers** to explore cancellation trends across years, hotels, and customer types.
 
 ---
