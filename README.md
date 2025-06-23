@@ -16,7 +16,8 @@ The goal is to analyze hotel booking and cancellation trends using historical da
 ## 📊 Dashboard Overview
 
 
-![dash_page](https://github.com/user-attachments/assets/502a71cc-3abd-46a9-84d7-7cadd78de069)
+![dashboard](https://github.com/user-attachments/assets/d12b97f4-41f7-4200-8992-8c74aa97b681)
+
 
 
 ### Key Insights Visualized:
